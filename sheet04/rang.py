@@ -17,3 +17,5 @@ print(sum(even_nums))
 
 squares2 = [value ** 2 for value in even_nums]
 print(squares2)
+
+print(squares2[-1])
